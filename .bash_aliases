@@ -14,6 +14,7 @@ alias poweroff='sudo poweroff'
 
 # Fun stuff
 alias appleterm='/usr/lib/xscreensaver/apple2 -text -fast -program 'bash' -geom =1020x580'
+alias airplay='perl /opt/shairplay/shairplay.pl'
 
 # Hardware
 alias maya44usbjackd='jackd -R -d alsa -d hw:1 -s -r 44100 -X seq'
